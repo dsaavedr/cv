@@ -1,0 +1,207 @@
+/* Globals */
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Rubik", sans-serif;
+  font-size: 14px;
+}
+
+ul {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+h4 {
+  color: #008BFF;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+h5 {
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+i {
+  color: #008BFF;
+}
+
+/* Page */
+.page {
+  width: 21cm;
+  height: 29.7cm;
+  padding: 3em 2em;
+}
+
+/* Header */
+header {
+  margin: 0 0 20px;
+  height: 15%;
+}
+header h1 {
+  margin: 0 0 5px;
+}
+header h2 {
+  color: #008BFF;
+  text-transform: capitalize;
+}
+header ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+}
+header ul li {
+  font-size: 12px;
+  font-weight: 600;
+  margin: 5px 0;
+  width: 40%;
+}
+
+.container {
+  width: 100%;
+  height: calc(100% - 15%);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.container .lg {
+  width: 60%;
+}
+.container .sm {
+  width: calc(100% - 60% - 5%);
+}
+.container section h2 {
+  border-bottom: 3px solid black;
+}
+.container section .experiencia {
+  border-bottom: 1px dashed lightgrey;
+  margin: 10px 0;
+}
+.container section .experiencia h4 {
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+}
+.container section .experiencia h5 {
+  color: #008BFF;
+  font-size: 14px;
+}
+.container section .experiencia ul {
+  list-style: inside;
+  padding: 0;
+  margin: 5px;
+}
+.container section .experiencia ul.tags {
+  margin: 0;
+  width: 50%;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  color: gray;
+}
+.container section .experiencia ul.tags i {
+  color: gray;
+}
+.container section .experiencia p {
+  margin: 0;
+}
+.container section .cat {
+  border-bottom: 1px dashed lightgray;
+  margin: 10px 0 20px;
+}
+.container section .cat h4 {
+  font-size: 20px;
+  font-weight: 400;
+}
+.container section .cat ul.tags {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 10px 0 5px;
+}
+.container section .cat ul.tags li {
+  margin: 8px 10px;
+  padding: 2px 4px;
+  font-weight: 600;
+  border-bottom: 2px solid lightgray;
+  text-align: center;
+  text-justify: center;
+}
+.container #educacion h4, .container #cursos h4 {
+  color: black;
+}
+.container #educacion h5, .container #cursos h5 {
+  color: #008BFF;
+  font-size: 15px;
+}
+.container #educacion .item, .container #educacion .curso, .container #cursos .item, .container #cursos .curso {
+  margin: 15px 0;
+  border-bottom: 1px dashed lightgray;
+}
+.container #educacion p, .container #cursos p {
+  margin: 10px 0 5px;
+}
+.container #educacion p i, .container #cursos p i {
+  color: gray;
+}
+.container #educacion ul, .container #cursos ul {
+  padding: 0;
+  list-style: inside;
+}
+.container #cursos h6 {
+  font-size: 12px;
+  font-weight: 400;
+}
+.container #cursos p {
+  margin: 5px 0;
+  color: gray;
+  font-size: 12px;
+}
+.container #orgullo .title {
+  display: flex;
+  align-items: center;
+}
+.container #orgullo .item {
+  margin: 10px 0 18px;
+  border-bottom: 1px dashed lightgray;
+}
+.container #orgullo i {
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=master.css.map */

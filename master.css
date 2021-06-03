@@ -56,6 +56,10 @@ i {
   color: #008BFF;
 }
 
+.d-none {
+  display: none;
+}
+
 /* Page */
 .page {
   width: 21cm;

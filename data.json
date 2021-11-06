@@ -1,0 +1,163 @@
+{
+    "name": "Daniel Saavedra",
+    "role": {
+        "en": "Web Developer",
+        "es": "Desarrollador Web"
+    },
+    "phone": "+57 318 325 0778",
+    "website": "https://dsaavedr.netlify.app/",
+    "email": "danielsaavedram@hotmail.com",
+    "location": "Bogotá, Colombia",
+    "socials": {
+        "github": "https://github.com/dsaavedr",
+        "ig": "https://www.instagram.com/danielsm14/"
+    },
+    "summary": {
+        "title": {
+            "en": "Summary",
+            "es": "Resumen"
+        },
+        "content": {
+            "en": "I've been incorporating programming into my life for a few years now. What started as a way to interact more efficiently with my pc and university work, quickly became the thing that I enjoy doing most: Full-Stack development, animation and data analysis. I possess skills that enable me to excel in statistical analysis and data mining. I'm interested in the usage of data for social impact; particularly with psychometry tools and usage and appropiation of ICTs.",
+            "es": "He estado incorporando la programación a mi vida durante varios años. Lo que empezó como una forma más eficiente de interactuar con mi computador y mi trabajo de la universidad, rápidamente se convirtió en lo que más disfruto hacer: desarrollo Full-Stack, animación y análisis de datos. Poseo habilidades que me facilitan llevar a cabo procesos estadísticos y de minería de datos. Me interesan los usos de los datos para el impacto social; en particular las herramientas de psicometría y uso y apropiación de TIC."
+        }
+    },
+    "experience": [
+        {
+            "role": {
+                "en": "Tech Lead",
+                "es": "Líder Técnico"
+            },
+            "company": "Gradiweb",
+            "start": "09/2021",
+            "end": "Ongoing",
+            "location": "Bogotá",
+            "summary": {
+                "en": "In charge of the technical aspect of an agile development theme.",
+                "es": "A cargo del aspecto técnico de un equipo de desarrollo ágil."
+            },
+            "bullets": [
+                {
+                    "en": "Create development roadmaps",
+                    "es": "Crear planes de desarrollo"
+                },
+                {
+                    "en": "Development of new features and evolutions for existing products",
+                    "es": "Desarrollar nuevas funciones y evoluciones de productos existentes"
+                },
+                {
+                    "en": "Development with Shopify and Wordpress themes and applications",
+                    "es": "Desarrollo con temas y aplicaciones de Shopify y Wordpress"
+                },
+                {
+                    "en": "Time estimation and efficiency analysis",
+                    "es": "Estimación de tiempos y análisis de eficiencia"
+                },
+                {
+                    "en": "Creating learning paths for developers",
+                    "es": "Crear rutas de capacitación para los desarrolladores"
+                },
+                {
+                    "en": "Translate client-needs into development tasks for the team",
+                    "es": "Traducir necesidades del cliente a tareas concretas para el equipo"
+                }
+            ]
+        },
+        {
+            "role": {
+                "en": "Web Developer",
+                "es": "Desarrollador Web"
+            },
+            "company": "Gradiweb",
+            "start": "03/2021",
+            "end": "08/2021",
+            "location": "Bogotá",
+            "summary": {
+                "en": "Part of a team providing support and new developments for several clients' stores. Mostly in France.",
+                "es": "Parte de un equipo encargado de ofrecer soporte y nuevos desarrollos a tiendas de clientes, principalmente en Francia."
+            },
+            "bullets": [
+                {
+                    "en": "Provide support and fix bugs with existing products",
+                    "es": "Proveer soporte y arreglar errores en productos existentes"
+                },
+                {
+                    "en": "Develop new features and evolutions for existing products",
+                    "es": "Desarrollar nuevas funciones y evoluciones de productos existentes"
+                },
+                {
+                    "en": "Development with Shopify and Wordpress themes and applications",
+                    "es": "Desarrollo con temas y aplicaciones de Shopify y Wordpress"
+                },
+                {
+                    "en": "Direct contact with clients for understanding and executing their vision",
+                    "es": "Contacto directo con clientes para entender y ejecutar su visión"
+                }
+            ]
+        },
+        {
+            "role": {
+                "en": "Editor Specialist",
+                "es": "Especialista de editores"
+            },
+            "company": "Publiciencia SAS",
+            "start": "01/2018",
+            "end": "01/2019",
+            "location": "Bogotá",
+            "summary": {
+                "en": "In charge of managing acquisitions of an intermediary of scientific publications.",
+                "es": "Encargado de gestionar adquisiciones en una empresa intermediaria de publicaciones científicas de todo tipo."
+            },
+            "bullets": [
+                {
+                    "en": "Contact with editors from all over the world",
+                    "es": "Contacto con editoriales de todo el mundo"
+                },
+                {
+                    "en": "Management and follow up of publications' dispatch to customers",
+                    "es": "Gestión y seguimiento de envío de publicaciones a los clientes"
+                },
+                {
+                    "en": "Several optimizations projects within the company:",
+                    "es": "Varios proyectos de optimización dentro de la empresa:"
+                },
+                {
+                    "en": "Macro creation and data analysis",
+                    "es": "Creación de macros y análisis de datos"
+                }
+            ]
+        },
+        {
+            "role": {
+                "en": "Research Assistant",
+                "es": "Auxiliar de Investigación"
+            },
+            "company": "Universidad EAFIT",
+            "start": "11/2015",
+            "end": "06/2016",
+            "location": "Bogotá",
+            "summary": {
+                "en": "Role aimed at impact analysis of a project that dealt with inclusion of colombian public schools to ICTs. Analyzed the project's own measurement instruments and presented results.",
+                "es": "Rol encaminado al análisis de impacto de un proyecto de inclusión y acercamiento de colegios públicos del país a las TIC desde el procesamiento de datos obtenidos de diferentes instrumentos propios del proyecto hasta la presentación de resultados."
+            },
+            "bullets": [
+                {
+                    "en": "Carry out bibliographic reviews",
+                    "es": "Realizar revisiones bibliográficas"
+                },
+                {
+                    "en": "Collect and analyze data",
+                    "es": "Recolectar y analizar información"
+                },
+                {
+                    "en": "Process data",
+                    "es": "Procesar datos"
+                },
+                {
+                    "en": "Prepare reports",
+                    "es": "Preparar informes"
+                }
+            ]
+        }
+    ]
+}

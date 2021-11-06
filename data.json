@@ -135,7 +135,7 @@
             "company": "Universidad EAFIT",
             "start": "11/2015",
             "end": "06/2016",
-            "location": "Bogotá",
+            "location": "Medellín",
             "summary": {
                 "en": "Role aimed at impact analysis of a project that dealt with inclusion of colombian public schools to ICTs. Analyzed the project's own measurement instruments and presented results.",
                 "es": "Rol encaminado al análisis de impacto de un proyecto de inclusión y acercamiento de colegios públicos del país a las TIC desde el procesamiento de datos obtenidos de diferentes instrumentos propios del proyecto hasta la presentación de resultados."
@@ -158,6 +158,107 @@
                     "es": "Preparar informes"
                 }
             ]
+        },
+        {
+            "role": {
+                "en": "Community Analyst",
+                "es": "Community Analyst"
+            },
+            "company": "Xcientia Inc.",
+            "start": "11/2016",
+            "end": "06/2017",
+            "location": "Bogotá",
+            "summary": {
+                "en": "Tasks around promotion and development of a young company in the area of services and editorial products.",
+                "es": "Funciones alrededor de la promoción y desarrollo de una empresa naciente de servicios y productos editoriales."
+            },
+            "bullets": [
+                {
+                    "en": "Liaison between the company's team and the community",
+                    "es": "Ser el punto de contacto del equipo de trabajo con la comunidad"
+                },
+                {
+                    "en": "Aid with product design and marketing",
+                    "es": "Ayudar con el diseño y marketing de productos"
+                },
+                {
+                    "en": "Manage the creation of publicity campaigns",
+                    "es": "Idear y gestionar la creación de campañas publicitarias"
+                },
+                {
+                    "en": "Process data for company products",
+                    "es": "Procesar datos para servicios"
+                },
+                {
+                    "en": "Manage the digital platform",
+                    "es": "Manejar la plataforma digital"
+                }
+            ]
         }
-    ]
+    ],
+    "skills": {
+        "title": {
+            "en": "Skills",
+            "es": "Habilidades"
+        },
+        "categories": [
+            {
+                "title": "Front End",
+                "tags": [
+                    "Javascript ES6",
+                    "Shopify",
+                    "Wordpress",
+                    "D3.js",
+                    "SASS",
+                    "Bootstrap",
+                    "ReactJS",
+                    "Vue.js",
+                    "Vuetify",
+                    "CSS3",
+                    "HTML5"
+                ]
+            },
+            {
+                "title": "Back End",
+                "tags": [
+                    "NodeJS",
+                    "MySQL",
+                    "Flask",
+                    "MongoDB",
+                    "ExpressJS",
+                    "Sequelize"
+                ]
+            },
+            {
+                "title": {
+                    "en": "Data Analysis",
+                    "es": "Análisis de datos"
+                },
+                "tags": [
+                    "Stata",
+                    "R",
+                    "Python",
+                    "Power BI"
+                ]
+            },
+            {
+                "title": {
+                    "en": "Tools",
+                    "es": "Herramientas"
+                },
+                "tags": [
+                    "Git",
+                    "Server Configuration",
+                    "Webpack",
+                    "AWS",
+                    "Google APIs",
+                    "Power BI",
+                    "Office Suite",
+                    "npm",
+                    "REST APIs",
+                    "RStudio"
+                ]
+            }
+        ]
+    }
 }

@@ -12,253 +12,387 @@
         "github": "https://github.com/dsaavedr",
         "ig": "https://www.instagram.com/danielsm14/"
     },
-    "summary": {
-        "title": {
-            "en": "Summary",
-            "es": "Resumen"
+    "sections": {
+        "summary": {
+            "title": {
+                "en": "Summary",
+                "es": "Resumen"
+            },
+            "content": {
+                "en": "I've been incorporating programming into my life for a few years now. What started as a way to interact more efficiently with my pc and university work, quickly became the thing that I enjoy doing most: Full-Stack development, animation and data analysis. I possess skills that enable me to excel in statistical analysis and data mining. I'm interested in the usage of data for social impact; particularly with psychometry tools and usage and appropiation of ICTs.",
+                "es": "He estado incorporando la programación a mi vida durante varios años. Lo que empezó como una forma más eficiente de interactuar con mi computador y mi trabajo de la universidad, rápidamente se convirtió en lo que más disfruto hacer: desarrollo Full-Stack, animación y análisis de datos. Poseo habilidades que me facilitan llevar a cabo procesos estadísticos y de minería de datos. Me interesan los usos de los datos para el impacto social; en particular las herramientas de psicometría y uso y apropiación de TIC."
+            }
         },
-        "content": {
-            "en": "I've been incorporating programming into my life for a few years now. What started as a way to interact more efficiently with my pc and university work, quickly became the thing that I enjoy doing most: Full-Stack development, animation and data analysis. I possess skills that enable me to excel in statistical analysis and data mining. I'm interested in the usage of data for social impact; particularly with psychometry tools and usage and appropiation of ICTs.",
-            "es": "He estado incorporando la programación a mi vida durante varios años. Lo que empezó como una forma más eficiente de interactuar con mi computador y mi trabajo de la universidad, rápidamente se convirtió en lo que más disfruto hacer: desarrollo Full-Stack, animación y análisis de datos. Poseo habilidades que me facilitan llevar a cabo procesos estadísticos y de minería de datos. Me interesan los usos de los datos para el impacto social; en particular las herramientas de psicometría y uso y apropiación de TIC."
-        }
-    },
-    "experience": [
-        {
-            "role": {
-                "en": "Tech Lead",
-                "es": "Líder Técnico"
-            },
-            "company": "Gradiweb",
-            "start": "09/2021",
-            "end": "Ongoing",
-            "location": "Bogotá",
-            "summary": {
-                "en": "In charge of the technical aspect of an agile development theme.",
-                "es": "A cargo del aspecto técnico de un equipo de desarrollo ágil."
-            },
-            "bullets": [
-                {
-                    "en": "Create development roadmaps",
-                    "es": "Crear planes de desarrollo"
-                },
-                {
-                    "en": "Development of new features and evolutions for existing products",
-                    "es": "Desarrollar nuevas funciones y evoluciones de productos existentes"
-                },
-                {
-                    "en": "Development with Shopify and Wordpress themes and applications",
-                    "es": "Desarrollo con temas y aplicaciones de Shopify y Wordpress"
-                },
-                {
-                    "en": "Time estimation and efficiency analysis",
-                    "es": "Estimación de tiempos y análisis de eficiencia"
-                },
-                {
-                    "en": "Creating learning paths for developers",
-                    "es": "Crear rutas de capacitación para los desarrolladores"
-                },
-                {
-                    "en": "Translate client-needs into development tasks for the team",
-                    "es": "Traducir necesidades del cliente a tareas concretas para el equipo"
-                }
-            ]
-        },
-        {
-            "role": {
-                "en": "Web Developer",
-                "es": "Desarrollador Web"
-            },
-            "company": "Gradiweb",
-            "start": "03/2021",
-            "end": "08/2021",
-            "location": "Bogotá",
-            "summary": {
-                "en": "Part of a team providing support and new developments for several clients' stores. Mostly in France.",
-                "es": "Parte de un equipo encargado de ofrecer soporte y nuevos desarrollos a tiendas de clientes, principalmente en Francia."
-            },
-            "bullets": [
-                {
-                    "en": "Provide support and fix bugs with existing products",
-                    "es": "Proveer soporte y arreglar errores en productos existentes"
-                },
-                {
-                    "en": "Develop new features and evolutions for existing products",
-                    "es": "Desarrollar nuevas funciones y evoluciones de productos existentes"
-                },
-                {
-                    "en": "Development with Shopify and Wordpress themes and applications",
-                    "es": "Desarrollo con temas y aplicaciones de Shopify y Wordpress"
-                },
-                {
-                    "en": "Direct contact with clients for understanding and executing their vision",
-                    "es": "Contacto directo con clientes para entender y ejecutar su visión"
-                }
-            ]
-        },
-        {
-            "role": {
-                "en": "Editor Specialist",
-                "es": "Especialista de editores"
-            },
-            "company": "Publiciencia SAS",
-            "start": "01/2018",
-            "end": "01/2019",
-            "location": "Bogotá",
-            "summary": {
-                "en": "In charge of managing acquisitions of an intermediary of scientific publications.",
-                "es": "Encargado de gestionar adquisiciones en una empresa intermediaria de publicaciones científicas de todo tipo."
-            },
-            "bullets": [
-                {
-                    "en": "Contact with editors from all over the world",
-                    "es": "Contacto con editoriales de todo el mundo"
-                },
-                {
-                    "en": "Management and follow up of publications' dispatch to customers",
-                    "es": "Gestión y seguimiento de envío de publicaciones a los clientes"
-                },
-                {
-                    "en": "Several optimizations projects within the company:",
-                    "es": "Varios proyectos de optimización dentro de la empresa:"
-                },
-                {
-                    "en": "Macro creation and data analysis",
-                    "es": "Creación de macros y análisis de datos"
-                }
-            ]
-        },
-        {
-            "role": {
-                "en": "Research Assistant",
-                "es": "Auxiliar de Investigación"
-            },
-            "company": "Universidad EAFIT",
-            "start": "11/2015",
-            "end": "06/2016",
-            "location": "Medellín",
-            "summary": {
-                "en": "Role aimed at impact analysis of a project that dealt with inclusion of colombian public schools to ICTs. Analyzed the project's own measurement instruments and presented results.",
-                "es": "Rol encaminado al análisis de impacto de un proyecto de inclusión y acercamiento de colegios públicos del país a las TIC desde el procesamiento de datos obtenidos de diferentes instrumentos propios del proyecto hasta la presentación de resultados."
-            },
-            "bullets": [
-                {
-                    "en": "Carry out bibliographic reviews",
-                    "es": "Realizar revisiones bibliográficas"
-                },
-                {
-                    "en": "Collect and analyze data",
-                    "es": "Recolectar y analizar información"
-                },
-                {
-                    "en": "Process data",
-                    "es": "Procesar datos"
-                },
-                {
-                    "en": "Prepare reports",
-                    "es": "Preparar informes"
-                }
-            ]
-        },
-        {
-            "role": {
-                "en": "Community Analyst",
-                "es": "Community Analyst"
-            },
-            "company": "Xcientia Inc.",
-            "start": "11/2016",
-            "end": "06/2017",
-            "location": "Bogotá",
-            "summary": {
-                "en": "Tasks around promotion and development of a young company in the area of services and editorial products.",
-                "es": "Funciones alrededor de la promoción y desarrollo de una empresa naciente de servicios y productos editoriales."
-            },
-            "bullets": [
-                {
-                    "en": "Liaison between the company's team and the community",
-                    "es": "Ser el punto de contacto del equipo de trabajo con la comunidad"
-                },
-                {
-                    "en": "Aid with product design and marketing",
-                    "es": "Ayudar con el diseño y marketing de productos"
-                },
-                {
-                    "en": "Manage the creation of publicity campaigns",
-                    "es": "Idear y gestionar la creación de campañas publicitarias"
-                },
-                {
-                    "en": "Process data for company products",
-                    "es": "Procesar datos para servicios"
-                },
-                {
-                    "en": "Manage the digital platform",
-                    "es": "Manejar la plataforma digital"
-                }
-            ]
-        }
-    ],
-    "skills": {
-        "title": {
-            "en": "Skills",
-            "es": "Habilidades"
-        },
-        "categories": [
+        "experience": [
             {
-                "title": "Front End",
-                "tags": [
-                    "Javascript ES6",
-                    "Shopify",
-                    "Wordpress",
-                    "D3.js",
-                    "SASS",
-                    "Bootstrap",
-                    "ReactJS",
-                    "Vue.js",
-                    "Vuetify",
-                    "CSS3",
-                    "HTML5"
+                "role": {
+                    "en": "Tech Lead",
+                    "es": "Líder Técnico"
+                },
+                "company": "Gradiweb",
+                "start": "09/2021",
+                "end": "Ongoing",
+                "location": "Bogotá",
+                "summary": {
+                    "en": "In charge of the technical aspect of an agile development theme.",
+                    "es": "A cargo del aspecto técnico de un equipo de desarrollo ágil."
+                },
+                "bullets": [
+                    {
+                        "en": "Create development roadmaps",
+                        "es": "Crear planes de desarrollo"
+                    },
+                    {
+                        "en": "Development of new features and evolutions for existing products",
+                        "es": "Desarrollar nuevas funciones y evoluciones de productos existentes"
+                    },
+                    {
+                        "en": "Development with Shopify and Wordpress themes and applications",
+                        "es": "Desarrollo con temas y aplicaciones de Shopify y Wordpress"
+                    },
+                    {
+                        "en": "Time estimation and efficiency analysis",
+                        "es": "Estimación de tiempos y análisis de eficiencia"
+                    },
+                    {
+                        "en": "Creating learning paths for developers",
+                        "es": "Crear rutas de capacitación para los desarrolladores"
+                    },
+                    {
+                        "en": "Translate client-needs into development tasks for the team",
+                        "es": "Traducir necesidades del cliente a tareas concretas para el equipo"
+                    }
                 ]
             },
             {
-                "title": "Back End",
-                "tags": [
-                    "NodeJS",
-                    "MySQL",
-                    "Flask",
-                    "MongoDB",
-                    "ExpressJS",
-                    "Sequelize"
+                "role": {
+                    "en": "Web Developer",
+                    "es": "Desarrollador Web"
+                },
+                "company": "Gradiweb",
+                "start": "03/2021",
+                "end": "08/2021",
+                "location": "Bogotá",
+                "summary": {
+                    "en": "Part of a team providing support and new developments for several clients' stores. Mostly in France.",
+                    "es": "Parte de un equipo encargado de ofrecer soporte y nuevos desarrollos a tiendas de clientes, principalmente en Francia."
+                },
+                "bullets": [
+                    {
+                        "en": "Provide support and fix bugs with existing products",
+                        "es": "Proveer soporte y arreglar errores en productos existentes"
+                    },
+                    {
+                        "en": "Develop new features and evolutions for existing products",
+                        "es": "Desarrollar nuevas funciones y evoluciones de productos existentes"
+                    },
+                    {
+                        "en": "Development with Shopify and Wordpress themes and applications",
+                        "es": "Desarrollo con temas y aplicaciones de Shopify y Wordpress"
+                    },
+                    {
+                        "en": "Direct contact with clients for understanding and executing their vision",
+                        "es": "Contacto directo con clientes para entender y ejecutar su visión"
+                    }
                 ]
             },
             {
-                "title": {
-                    "en": "Data Analysis",
-                    "es": "Análisis de datos"
+                "role": {
+                    "en": "Editor Specialist",
+                    "es": "Especialista de editores"
                 },
-                "tags": [
-                    "Stata",
-                    "R",
-                    "Python",
-                    "Power BI"
+                "company": "Publiciencia SAS",
+                "start": "01/2018",
+                "end": "01/2019",
+                "location": "Bogotá",
+                "summary": {
+                    "en": "In charge of managing acquisitions of an intermediary of scientific publications.",
+                    "es": "Encargado de gestionar adquisiciones en una empresa intermediaria de publicaciones científicas de todo tipo."
+                },
+                "bullets": [
+                    {
+                        "en": "Contact with editors from all over the world",
+                        "es": "Contacto con editoriales de todo el mundo"
+                    },
+                    {
+                        "en": "Management and follow up of publications' dispatch to customers",
+                        "es": "Gestión y seguimiento de envío de publicaciones a los clientes"
+                    },
+                    {
+                        "en": "Several optimizations projects within the company:",
+                        "es": "Varios proyectos de optimización dentro de la empresa:"
+                    },
+                    {
+                        "en": "Macro creation and data analysis",
+                        "es": "Creación de macros y análisis de datos"
+                    }
                 ]
             },
             {
-                "title": {
-                    "en": "Tools",
-                    "es": "Herramientas"
+                "role": {
+                    "en": "Research Assistant",
+                    "es": "Auxiliar de Investigación"
                 },
-                "tags": [
-                    "Git",
-                    "Server Configuration",
-                    "Webpack",
-                    "AWS",
-                    "Google APIs",
-                    "Power BI",
-                    "Office Suite",
-                    "npm",
-                    "REST APIs",
-                    "RStudio"
+                "company": "Universidad EAFIT",
+                "start": "11/2015",
+                "end": "06/2016",
+                "location": "Medellín",
+                "summary": {
+                    "en": "Role aimed at impact analysis of a project that dealt with inclusion of colombian public schools to ICTs. Analyzed the project's own measurement instruments and presented results.",
+                    "es": "Rol encaminado al análisis de impacto de un proyecto de inclusión y acercamiento de colegios públicos del país a las TIC desde el procesamiento de datos obtenidos de diferentes instrumentos propios del proyecto hasta la presentación de resultados."
+                },
+                "bullets": [
+                    {
+                        "en": "Carry out bibliographic reviews",
+                        "es": "Realizar revisiones bibliográficas"
+                    },
+                    {
+                        "en": "Collect and analyze data",
+                        "es": "Recolectar y analizar información"
+                    },
+                    {
+                        "en": "Process data",
+                        "es": "Procesar datos"
+                    },
+                    {
+                        "en": "Prepare reports",
+                        "es": "Preparar informes"
+                    }
+                ]
+            },
+            {
+                "role": {
+                    "en": "Community Analyst",
+                    "es": "Community Analyst"
+                },
+                "company": "Xcientia Inc.",
+                "start": "11/2016",
+                "end": "06/2017",
+                "location": "Bogotá",
+                "summary": {
+                    "en": "Tasks around promotion and development of a young company in the area of services and editorial products.",
+                    "es": "Funciones alrededor de la promoción y desarrollo de una empresa naciente de servicios y productos editoriales."
+                },
+                "bullets": [
+                    {
+                        "en": "Liaison between the company's team and the community",
+                        "es": "Ser el punto de contacto del equipo de trabajo con la comunidad"
+                    },
+                    {
+                        "en": "Aid with product design and marketing",
+                        "es": "Ayudar con el diseño y marketing de productos"
+                    },
+                    {
+                        "en": "Manage the creation of publicity campaigns",
+                        "es": "Idear y gestionar la creación de campañas publicitarias"
+                    },
+                    {
+                        "en": "Process data for company products",
+                        "es": "Procesar datos para servicios"
+                    },
+                    {
+                        "en": "Manage the digital platform",
+                        "es": "Manejar la plataforma digital"
+                    }
                 ]
             }
-        ]
+        ],
+        "skills": {
+            "title": {
+                "en": "Skills",
+                "es": "Habilidades"
+            },
+            "categories": [
+                {
+                    "title": "Front End",
+                    "tags": [
+                        "Javascript ES6",
+                        "Shopify",
+                        "Wordpress",
+                        "D3.js",
+                        "SASS",
+                        "Bootstrap",
+                        "ReactJS",
+                        "Vue.js",
+                        "Vuetify",
+                        "CSS3",
+                        "HTML5"
+                    ]
+                },
+                {
+                    "title": "Back End",
+                    "tags": [
+                        "NodeJS",
+                        "MySQL",
+                        "Flask",
+                        "MongoDB",
+                        "ExpressJS",
+                        "Sequelize"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Data Analysis",
+                        "es": "Análisis de datos"
+                    },
+                    "tags": [
+                        "Stata",
+                        "R",
+                        "Python",
+                        "Power BI"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Tools",
+                        "es": "Herramientas"
+                    },
+                    "tags": [
+                        "Git",
+                        "Server Configuration",
+                        "Webpack",
+                        "AWS",
+                        "Google APIs",
+                        "Power BI",
+                        "Office Suite",
+                        "npm",
+                        "REST APIs",
+                        "RStudio"
+                    ]
+                }
+            ]
+        },
+        "courses": {
+            "title": {
+                "en": "Courses and Certifications",
+                "es": "Cursos y Certificaciones"
+            },
+            "content": [
+                {
+                    "title": "Diplomat: Software Development - Misión TIC 2022",
+                    "institution": "MinTIC & Universidad Tecnológica de Pereira",
+                    "provider": null,
+                    "end": "Jan 2021"
+                },
+                {
+                    "title": "APIs and Microservices",
+                    "institution": "freeCodeCamp",
+                    "provider": null,
+                    "end": "Nov 2020"
+                },
+                {
+                    "title": "Data Visualization",
+                    "institution": "freeCodeCamp",
+                    "provider": null,
+                    "end": "Oct 2020"
+                },
+                {
+                    "title": "Front End Libraries",
+                    "institution": "freeCodeCamp",
+                    "provider": null,
+                    "end": "Oct 2020"
+                },
+                {
+                    "title": "JavaScript Algorithms and Data Structures",
+                    "institution": "freeCodeCamp",
+                    "provider": null,
+                    "end": "Sep 2020"
+                },
+                {
+                    "title": "Specialization: Python for Everybody",
+                    "institution": "University of Michigan",
+                    "provider": "Coursera",
+                    "end": "Sep 2020"
+                },
+                {
+                    "title": "Responsive Web Design",
+                    "institution": "freeCodeCamp",
+                    "provider": null,
+                    "end": "Sep 2020"
+                },
+                {
+                    "title": "Front-End JavaScript Frameworks: Angular",
+                    "institution": "The Hong Kong University of Science and Technology",
+                    "provider": "Coursera",
+                    "end": "Jul 2020"
+                },
+                {
+                    "title": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+                    "institution": "The Hong Kong University of Science and Technology",
+                    "provider": "Coursera",
+                    "end": "Jul 2020"
+                }
+            ]
+        },
+        "education": {
+            "title": {
+                "en": "Formal Education",
+                "es": "Educación Formal"
+            },
+            "content": [
+                {
+                    "title": {
+                        "en": "Economics Undergraduate (Inc.)",
+                        "es": "Pregrado en Economía (Inc.)"
+                    },
+                    "institution": "Universidad de los Andes",
+                    "end": "2016-2020"
+                },
+                {
+                    "title": {
+                        "en": "High School",
+                        "es": "Bachillerato académico"
+                    },
+                    "institution": "Colegio Rochester",
+                    "end": "2014"
+                },
+                {
+                    "title": {
+                        "en": "English as a second language",
+                        "es": "Dominio del inglés como segundo idioma"
+                    },
+                    "institution": "Certificaciones:",
+                    "end": "TOEFL IBT: 108, ICFES: 83 (B+)"
+                }
+            ]
+        },
+        "pride": {
+            "title": {
+                "en": "What makes me proud",
+                "es": "Lo que me enorgullece"
+            },
+            "content": [
+                {
+                    "title": {
+                        "en": "My discipline",
+                        "es": "Mi disciplina"
+                    },
+                    "description": {
+                        "en": "I'm extremely responsible with my engagements and I'm capable of dedicating my full attention to the projects I undertake.",
+                        "es": "Soy extremadamente responsable con mis compromisos y tengo una capacidad inmensa de dedicarle toda mi atención a los proyectos que emprendo."
+                    }
+                },
+                {
+                    "title": {
+                        "en": "My creativity",
+                        "es": "Mi creatividad"
+                    },
+                    "description": {
+                        "en": "I'm passionate about reaching creative solutions and finding new and bettwe ways of accomplishing my goals.",
+                        "es": "Me apasiona llegar a soluciones creativas y buscar formas nuevas y mejores de lograr mis objetivos."
+                    }
+                },
+                {
+                    "title": {
+                        "en": "My resilience and flexibility",
+                        "es": "Mi flexibilidad y resiliencia"
+                    },
+                    "description": {
+                        "en": "I've had the patience to get to know myself and the flexibility to find a path that I'm passionate about, even if outside of what I was meant to do.",
+                        "es": "He tenido la paciencia para conocerme y la flexibilidad para encontrar un camino que me apasiona, incluso fuera de lo que me capacité para hacer."
+                    }
+                }
+            ]
+        }
     }
 }

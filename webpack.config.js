@@ -2,6 +2,8 @@ const path = require("path");
 const dotenv = require("dotenv");
 dotenv.config();
 
+const HtmlWebpackPlugin = require("html-webpack-plugin");
+
 module.exports = {
     entry: "./src/index.js",
     output: {
@@ -20,11 +22,21 @@ module.exports = {
                 use: ["style-loader", "css-loader", "sass-loader"]
             },
             {
-                test: /.js$/i,
+                test: /\.js$/i,
                 include: path.resolve(__dirname, "src"),
                 loader: "babel-loader"
+            },
+            {
+                test: /\.ejs$/i,
+                use: ["ejs-loader"]
             }
         ]
     },
+    plugins: [
+        new HtmlWebpackPlugin({
+            template: "!!raw-loader!./src/views/test.ejs",
+            filename: "./index.ejs"
+        })
+    ],
     mode: process.env.ENV || "production"
 };

@@ -26,12 +26,44 @@
         "experience": [
             {
                 "role": {
+                    "en": "Ssr Adv. Web UI Developer",
+                    "es": "Ssr Adv. Web UI Developer"
+                },
+                "company": "Globant",
+                "start": "03/2022",
+                "end": "Ongoing",
+                "location": "Bogotá",
+                "summary": {
+                    "en": "Part of a team working in support, modernization and development of a client's platform.",
+                    "es": "Parte de un equipo trabajando en proveer soporte, modernización y desarrollo a la plataforma de un cliente."
+                },
+                "bullets": [
+                    {
+                        "en": "Work with an agile development team",
+                        "es": "Trabajar con un equipo de desarrollo ágil"
+                    },
+                    {
+                        "en": "Migration of existing functionality from the .NET framework to NuxtJS and ExpressJS",
+                        "es": "Migración de funcionalidad existente de .NET a NuxtJS y ExpressJS"
+                    },
+                    {
+                        "en": "Development primarily with Vue, Nuxt, TypeScript and Express for the backend",
+                        "es": "Desarrollo principalmente con Vue, Nuxt, TypeScript y Express para el backend"
+                    },
+                    {
+                        "en": "Extensive use of agile-development tools like Azure DevOps with AWS",
+                        "es": "Uso extensivo de herramientas de desarrollo ágil como Azure DevOps con AWS"
+                    }
+                ]
+            },
+            {
+                "role": {
                     "en": "Tech Lead",
                     "es": "Líder Técnico"
                 },
                 "company": "Gradiweb",
                 "start": "09/2021",
-                "end": "Ongoing",
+                "end": "03/2022",
                 "location": "Bogotá",
                 "summary": {
                     "en": "In charge of the technical aspect of an agile development theme.",
